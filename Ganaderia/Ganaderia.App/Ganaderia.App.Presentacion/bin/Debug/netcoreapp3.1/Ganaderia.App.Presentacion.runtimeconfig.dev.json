@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\jourghen vides\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jourghen vides\\.nuget\\packages"
+    ]
+  }
+}
